@@ -1,0 +1,10 @@
+command:     ["git", "status", "-sb"]
+user:        motemen
+repoPath:    github.com/motemen/test-repository
+projectPath: github.com/motemen/test-repository
+gitRevision: b7e19f710a1727dd49b0ae9673267fa5f3bc5ced
+furoVersion: 2.0.0-alpha
+exitCode:    0
+---
+## [32mmaster[m...[31morigin/master[m [behind [31m2[m]
+ [31mM[m .git-pr-release
